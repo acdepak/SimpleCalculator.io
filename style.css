@@ -28,7 +28,8 @@ thead input {
 
 #btn {
   background-color: orange;
-  width: 90px;
+  width: auto;
+  display: flex;
   height: 70px;
   justify-content: center;
 }
